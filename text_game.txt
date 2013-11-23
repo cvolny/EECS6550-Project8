@@ -1,0 +1,36 @@
+The Hitchhiker's guide to Software Specification
+6
+9
+Music
+Who was Led Zeppelin's lead singer?
+2
+Robert Plant
+Plant
+Math
+What is 5!?
+1
+120
+History
+Who shot John.F.Kennedy?
+3
+Oswald
+Lee Harvey Oswald
+CIA
+Literature
+What is Chris Volny's favorite book?
+1
+Fifty Shades of Grey
+Technology
+Who started Google?
+4
+Larry Page
+Page
+Sergey Brin
+Brin
+Celebrity Gossip
+Who is Tom Cruise's ex wife?
+4
+Nicole Kidman
+Kidman
+Katie Holmes
+Holmes
